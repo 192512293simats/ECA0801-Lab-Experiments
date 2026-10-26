@@ -18,7 +18,7 @@ technical references relevant to analog communication systems.
 -   **Name:** Lokesh A
 -   **Register Number:** 192512293
 -   **Programme:** B.E. Electronics and Communication Engineering (ECE)
--   **Institution:** SIMATS
+-   **Institution:** SIMATS Engineering
 -   **Course Code:** ECA0801
 -   **Course:** Analog and Digital Communication
 
@@ -93,28 +93,6 @@ criterion
 
 ------------------------------------------------------------------------
 
-## Repository Contents
-
-Place the final Word documents and this README in the repository, for
-example:
-
-``` text
-ECA0801-Analog-and-Digital-Communication/
-├── README.md
-├── CO1-Lokesh-A.docx
-└── CO2-Lokesh-A.docx
-```
-
-If your uploaded files have different names, keep their existing names
-or rename them consistently with the links below.
-
-### Files
-
--   **CO1 assignment:** `CO1-Lokesh-A.docx`
--   **CO2 assignment:** `CO2-Lokesh-A.docx`
-
-------------------------------------------------------------------------
-
 ## Purpose of This Repository
 
 This repository keeps the CO1 and CO2 engineering assignment reports
@@ -145,4 +123,4 @@ rules.
 
 **Course:** ECA0801 -- Analog and Digital Communication\
 **Programme:** B.E. Electronics and Communication Engineering (ECE)\
-**Institution:** SIMATS
+**Institution:** SIMATS Engineering
